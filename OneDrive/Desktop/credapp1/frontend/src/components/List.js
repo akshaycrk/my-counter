@@ -28,3 +28,4 @@ const List = ({ id, task, setUpdateUI, updateMode }) => {
 };
 
 export default List;
+
